@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste Prova</title>
 </head>
-<body style="text-align: center;">
-    <h2>Formulário de Contato</h2>
+<body style="text-align: center; background-color: lightblue; ">
+    <h2>Cadastro Currículo</h2>
     <form action="" method="POST">
         <label for="nome">Nome:</label><br>
         <input type="text" id="nome" name="nome" required><br><br>
